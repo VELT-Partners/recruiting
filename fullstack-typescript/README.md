@@ -21,7 +21,7 @@ O objetivo deste repositório é validar se você possui fluência em typescript
 
 Você deve criar um repositório com dois projetos dentro. Um de front-end e um de back-end, e implementar a seguinte estória.
 
-> Eu, analista de investimentos, gostaria de poder visualizar uma página do ativo, tipo GOOGL ou MSFT, e visualizar um gráfico de preço com útltimas notícias e análise de sentimento.
+> Eu, analista de investimentos, gostaria de poder visualizar uma página do ativo, tipo GOOG ou MSFT, e visualizar um gráfico de preço com útltimas notícias e análise de sentimento.
 
 Fique tranquilo(a) você não vai precisar fazer machine learning. Os dados estão disponíveis em uma API. Você precisará fazer um rápido cadastro lá e acessar dois endpoints:
 
