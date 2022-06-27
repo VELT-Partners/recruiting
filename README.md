@@ -14,4 +14,4 @@ Somos um time com perfil colaborativo, sem medo de aprender e ensinar, com pouca
 
 ## Desafios Disponíveis
 
-- 
+- *Fullstack - Typescript*: https://github.com/VELT-Partners/recruiting/tree/main/fullstack-typescript
