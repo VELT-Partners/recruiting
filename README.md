@@ -12,21 +12,6 @@ Nosso time de Labs é responsável por desenvolver soluções analíticas, aprim
 
 Somos um time com perfil colaborativo, sem medo de aprender e ensinar, com pouca formalidade e hierarquia. Buscamos pessoas com alto grau de curiosidade intelectual, gosto por solucionar problemas e habilidade de trabalhar em equipe.
 
-Responsabilidades:
+## Desafios Disponíveis
 
-- Ajude a projetar soluções full-stack inovadoras e flexíveis
-- Identificar as adições de tecnologia apropriadas para desenvolvimento à medida que expandimos a funcionalidade de nosso conjunto de produtos
-- Participar das sessões de grooming e planejamento de funcionalidades para garantir um entendimento completo das necessidades de negócios
-- Trabalhar em um ambiente de desenvolvimento ágil e melhorar coletivamente nossas formas de trabalhar
-- Promover uma cultura de aprendizado, colaboração e melhoria contínua
-
-Habilidades desejáveis:
-
-- Conhecimento prático de contêineres Docker e Kubernetes
-- Proficiência em Inglês
-
-Você dever participar se:
-
-- Tem bastante interesse pelo mercado financeiro e investimentos
-- Quer aplicar tecnologia e ser corresponsável pelo desenvolvimento tecnológico da gestora
-- Quer envolver-se com pessoas que amam o que fazem
+- 
