@@ -29,16 +29,12 @@ Fique tranquilo(a) você não vai precisar fazer machine learning. Os dados est�
 - *Daily* - https://www.alphavantage.co/documentation/#daily
 
 
-Se você for ninja, coloque uma pasta .devcontainer no seu projeto para facilitar nossa execução. Não use muito tempo. Esta estapa não é obrigatória, faremos isso caso não tenha familiaridade com o desenvolvimento dentro de contâiners - https://code.visualstudio.com/docs/remote/containers
-
-
 ## Regras
 
 Para facilitar a sua implementação, organização do projeto e nossa avaliação:
 
 - *Typescript* - Utilize no front e no back.
 - *Frontend* - React - https://reactjs.org/docs/static-type-checking.html#typescript
-- *Backend* - GraphQL - https://www.apollographql.com/docs/react/development-testing/static-typing/
 - *Unit Tests* - Aproveite as bibliotecas de testes de ambos os projetos para validar sua implementação enquanto desenvolve as funcionalidades.
 - *Separation of Concerns* - Divida bem o seu código em elementos do domínio e em pastas. 
 
@@ -50,6 +46,11 @@ Para facilitar a sua implementação, organização do projeto e nossa avaliaç�
 - Ao finalizar, passe para nós o link do projeto. Exemplo: https://github.com/seuNome/investment-app.git
 - Aguarde que entraremos em contato!
 
+Você pode implementar o backend como API REST mas para conquistar uns pontinhos a mais conosco, sugerimos:
+- *Backend* - GraphQL - https://www.apollographql.com/docs/react/development-testing/static-typing/
+
+
+Se você for ninja, coloque uma pasta .devcontainer no seu projeto para facilitar nossa execução. Não use muito tempo. Esta estapa não é obrigatória, faremos isso caso não tenha familiaridade com o desenvolvimento dentro de contâiners - https://code.visualstudio.com/docs/remote/containers
 
 
 
