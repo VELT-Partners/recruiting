@@ -42,7 +42,7 @@ Para facilitar a sua implementação, organização do projeto e nossa avaliaç�
 - Crie um repositório novo para implementar o desafio.
 - Coloque dois projetos dentro ele, um para front e outro para backend.
 - Implemente profissionalmente, com testes unitários, documentação e seja criterioso na escolha de nomes, pastas e separação de responsabilidades.
-- Ao finalizar, passe para nós o link do projeto. Exemplo: https://github.com/seuNome/investment-app.git
+- Ao finalizar, passe para nós o link do projeto. Exemplo: https://github.com/seuNome/awesome-dog-app.git
 - Aguarde que entraremos em contato!
 
 Você pode implementar o backend como API REST mas para conquistar uns pontinhos a mais conosco, sugerimos:
