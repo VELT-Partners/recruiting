@@ -21,16 +21,12 @@ O objetivo deste repositório é validar se você possui fluência em typescript
 
 Você deve criar um repositório com dois projetos dentro. Um de front-end e um de back-end, e implementar a seguinte estória.
 
-> Eu, analista de investimentos, gostaria de poder visualizar uma página do ativo, tipo GOOG ou MSFT, e visualizar um gráfico de preço com útltimas notícias e análise de sentimento.
+> Eu, especialista em pokemons, gostaria de poder criar um time com de até 6 pokemons para ganhar do Elite 4.
 
-Fique tranquilo(a) você não vai precisar fazer machine learning. Os dados estão disponíveis em uma API. Você precisará fazer um rápido cadastro lá e acessar dois endpoints:
+Fique tranquilo(a) você não vai precisar fazer machine learning. Os dados estão disponíveis em uma API. Nem é necessario fazer o cadastro:
 
-- *News and Sentiments* - https://www.alphavantage.co/documentation/#news-sentiment
-- *Daily* - https://www.alphavantage.co/documentation/#daily
+- *Pokeapi - The pokemon API* - https://pokeapi.co/
 
-É facil criar gráficos utilizando:
-
-- *Echarts* - https://echarts.apache.org/en/index.html
 
 ## Regras
 
@@ -46,7 +42,7 @@ Para facilitar a sua implementação, organização do projeto e nossa avaliaç�
 - Crie um repositório novo para implementar o desafio.
 - Coloque dois projetos dentro ele, um para front e outro para backend.
 - Implemente profissionalmente, com testes unitários, documentação e seja criterioso na escolha de nomes, pastas e separação de responsabilidades.
-- Ao finalizar, passe para nós o link do projeto. Exemplo: https://github.com/seuNome/investment-app.git
+- Ao finalizar, passe para nós o link do projeto. Exemplo: https://github.com/seuNome/awesome-pokemon-app.git
 - Aguarde que entraremos em contato!
 
 Você pode implementar o backend como API REST mas para conquistar uns pontinhos a mais conosco, sugerimos:

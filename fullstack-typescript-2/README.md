@@ -49,7 +49,7 @@ Você pode implementar o backend como API REST mas para conquistar uns pontinhos
 - *Backend* - GraphQL - https://www.apollographql.com/docs/react/development-testing/static-typing/
 
 
-Se você for ninja, coloque uma pasta .devcontainer no seu projeto para facilitar nossa execução. Não use muito tempo. Esta estapa não é obrigatória, faremos isso caso não tenha familiaridade com o desenvolvimento dentro de contâiners - https://code.visualstudio.com/docs/remote/containers
+Se você for ninja, coloque uma pasta .devcontainer no seu projeto para facilitar nossa execução. Não use muito tempo. Esta estapa não é obrigatória, faremos isso caso não tenha familiaridade com o desenvolvimento dentro de containers - https://code.visualstudio.com/docs/remote/containers
 
 
 
