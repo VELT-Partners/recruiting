@@ -14,5 +14,6 @@ Somos um time com perfil colaborativo, sem medo de aprender e ensinar, com pouca
 
 ## Desafios Disponíveis
 
-- *Fullstack - Typescript*: https://github.com/VELT-Partners/recruiting/tree/main/fullstack-typescript
-- *Fullstack - Typescript - 2*: https://github.com/VELT-Partners/recruiting/tree/main/fullstack-typescript-2
+- *Fullstack - Typescript - 1 - Dados de preço e notícias*: https://github.com/VELT-Partners/recruiting/tree/main/fullstack-typescript
+- *Fullstack - Typescript - 2 - Dog API*: https://github.com/VELT-Partners/recruiting/tree/main/fullstack-typescript-2
+- *Fullstack - Typescript - 3 - Pokemon API*: https://github.com/VELT-Partners/recruiting/tree/main/fullstack-typescript-3
